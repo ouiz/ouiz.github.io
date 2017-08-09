@@ -1,29 +1,33 @@
-Bheema is a theme suitabel for image heavy journal kind of websites. 
+# Emping - Amp theme for jekyll
+An Amphtml theme for your jekyll blog, based on default Jekyll theme. Theme design inspired from the Jekyll [Kactus](https://github.com/nickbalestra/kactus) theme.
 
-Demo: [http://webjeda.com/ashwath/](http://webjeda.com/ashwath/)
+![screenshoot](https://github.com/rmsubekti/emping/raw/master/Screenshot.png)
 
+### Feature
 
-## Installation
-* Fork the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready.
+- [x] **Amp Page**
+- [x] **Google Analytics**
+- [x] **Pagination**
+- [x] **404 Error Page**
+- [x] **SEO** Gems: *[jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap), [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag), [jekyll-feed](https://github.com/jekyll/jekyll-feed)*
+- [x] **Share Button**
 
+### [View Demo](http://rmsubekti.github.io/emping)
 
-## Screenshots
-Default theme:
+### Use this theme
+Simply fork this repo, and rename to `your_github_username.github.io`.
 
-![ashwath jekyll theme](http://webjeda.com/ashwath/images/Default.png)
+### Run this theme on your local machine
+To serve this jekyll theme make sure your computer meets the [following requirements](https://jekyllrb.com/docs/installation/#requirements), then run this command.
 
-Color schemes (Full version)
+```
+git clone git@github.com:rmsubekti/emping.git
+cd emping
+bundle install
+bundle exec jekyll s
+```
 
-![ashwath jekyll theme](http://webjeda.com/ashwath/images/Purple.png)
+You can change the site configuration in the [_config.yml](https://github.com/rmsubekti/emping/blob/master/_config.yml) file.
 
-![ashwath jekyll theme](http://webjeda.com/ashwath/images/Blood.png)
-
-![ashwath jekyll theme](http://webjeda.com/ashwath/images/Mango.png)
-
-
-For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
-
-## License
-MIT License
+License : [MIT](https://github.com/rmsubekti/emping/blob/master/LICENSE.md)
+Feel free to fork, change, modify and re-use it.
