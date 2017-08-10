@@ -1,33 +1,22 @@
-# Emping - Amp theme for jekyll
-An Amphtml theme for your jekyll blog, based on default Jekyll theme. Theme design inspired from the Jekyll [Kactus](https://github.com/nickbalestra/kactus) theme.
+Jekyll博客模板
+================
 
-![screenshoot](https://github.com/rmsubekti/emping/raw/master/Screenshot.png)
+#### 1.浏览
+http://www.panxw.com, 支持PC与智能机访问。  
 
-### Feature
+#### 2.模板使用
+修改_config.yml与_includes目录下相关文件进行配置。  
+模板可任意使用，但请保留本站**友情链接**。  
 
-- [x] **Amp Page**
-- [x] **Google Analytics**
-- [x] **Pagination**
-- [x] **404 Error Page**
-- [x] **SEO** Gems: *[jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap), [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag), [jekyll-feed](https://github.com/jekyll/jekyll-feed)*
-- [x] **Share Button**
+#### 3.联系作者
+Email: winfirm(#)163.com  
+QQ交流群: 168563980  
 
-### [View Demo](http://rmsubekti.github.io/emping)
+#### 4.赞助
+想给作者予以鼓励？欢迎打赏吧。  
+支付宝:  
+<img width="200" height="200" src="http://o83o7w0hk.bkt.clouddn.com//donate_qr/donate_alipay.jpg"/>
 
-### Use this theme
-Simply fork this repo, and rename to `your_github_username.github.io`.
+微信:  
+<img width="200" height="200" src="http://o83o7w0hk.bkt.clouddn.com//donate_qr/donate_weixin.jpg"/>
 
-### Run this theme on your local machine
-To serve this jekyll theme make sure your computer meets the [following requirements](https://jekyllrb.com/docs/installation/#requirements), then run this command.
-
-```
-git clone git@github.com:rmsubekti/emping.git
-cd emping
-bundle install
-bundle exec jekyll s
-```
-
-You can change the site configuration in the [_config.yml](https://github.com/rmsubekti/emping/blob/master/_config.yml) file.
-
-License : [MIT](https://github.com/rmsubekti/emping/blob/master/LICENSE.md)
-Feel free to fork, change, modify and re-use it.
